@@ -9,3 +9,4 @@ Color sensors, QTI sensors, laser-cut self-deploying acrylic "arms", wheels powe
 
 # Demo
 See video for demo: https://youtu.be/zfRZzOb8aFU
+(Our robot is the one with green arms.)
