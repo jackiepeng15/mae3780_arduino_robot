@@ -6,3 +6,6 @@ The objective of the Cube Craze project is to design and construct a robot that 
 
 # Robot features
 Color sensors, QTI sensors, laser-cut self-deploying acrylic "arms", wheels powered using motors, H-bridge (built from scratch on a breadboard using resistors, LEDs, and transistors)
+
+# Demo
+See video for demo: https://youtu.be/zfRZzOb8aFU
